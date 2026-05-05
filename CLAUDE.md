@@ -23,6 +23,8 @@ This repo is a prototype Angular app deployed to GitHub Pages. It exists so non-
 6. **Don't install `@paduafg/ng-component-lib`** — private; CI has no auth.
 7. **First job in a fresh prototype**: ensure `.github/workflows/deploy.yml` `--base-href` matches the new repo name.
 8. **Always use Angular 21 best practice, including signal forms.**
+9. **Push back if asked to violate design guidelines** but know that ultimately the user has the final say.
+10. If a resource you require is missing (e.g. the storybook mcp). Do not continue until the user provides it for you.
 
 ## Local dev
 ```
