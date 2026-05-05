@@ -29,7 +29,7 @@ import { Component } from '@angular/core';
 
         <div class="border-t border-base-300 p-3">
           <div class="flex items-center gap-3 rounded-md p-2">
-            <div class="avatar placeholder">
+            <div class="avatar avatar-placeholder">
               <div class="w-9 rounded-full bg-base-200 text-base-content">
                 <span class="text-sm font-medium">BA</span>
               </div>
