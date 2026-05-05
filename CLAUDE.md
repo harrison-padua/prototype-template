@@ -22,6 +22,7 @@ This repo is a prototype Angular app deployed to GitHub Pages. It exists so non-
 5. **No backend, no real APIs, no auth, no real data.** Mock everything.
 6. **Don't install `@paduafg/ng-component-lib`** — private; CI has no auth.
 7. **First job in a fresh prototype**: ensure `.github/workflows/deploy.yml` `--base-href` matches the new repo name.
+8. **Always use Angular 21 best practice.**
 
 ## Local dev
 ```
