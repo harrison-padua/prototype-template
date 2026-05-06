@@ -4,7 +4,7 @@ This repo is a prototype Angular app deployed to GitHub Pages. It exists so non-
 
 ## What goes here
 - One prototype per repo.
-- Single-page-ish Angular app, mock data only, no backend.
+- Angular app, mock data only, no backend.
 - Persist with localStorage if needed.
 
 ## Stack
